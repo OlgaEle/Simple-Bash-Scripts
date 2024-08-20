@@ -1,6 +1,6 @@
 # Simple Bash Scripts
 
-1. [Hello World](HelloWorld.sh)
+1. [Hello World](hello_world.sh)
 
 ### 🛠Some Instructions🛠 </p>
 
