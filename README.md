@@ -1,6 +1,7 @@
 # Simple Bash Scripts
 
 1. [Hello World](hello_world.sh)
+2. [Basic Calculator](basic_calculator.sh)
 
 ### 🛠Some Instructions🛠 </p>
 
